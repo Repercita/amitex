@@ -1,0 +1,19 @@
+.menu{
+    background:#ffbde7
+    ;
+
+}
+.portada{
+    
+    background: url("./img/Fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.titulo{
+    font-size: 100px;
+}
+*{
+    font-family: 'Handlee', cursive;
+}
